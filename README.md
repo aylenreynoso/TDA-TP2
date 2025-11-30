@@ -9,7 +9,7 @@ Este repositorio contiene los scripts usados para resolver y experimentar con:
 
 ## Requisitos
 
-- **Python 3.9+** (recomendado)
+- **Python 3.9+** 
 - Dependencias:
   - `pulp`
   - `numpy`
@@ -70,7 +70,7 @@ python3 ejercicio_1.py
 ```
 
 **Salida:**
-- puede generarse/guardarse un archivo con resultados como `resultado_red.txt` (si está configurado en el script).
+- genera un archivo con las salidas de resultado.
 
 ---
 
@@ -80,7 +80,6 @@ python3 ejercicio_1.py
 - `Next_Fit_Decreasing.py` → implementación de **NFD**
 - `First_Fit_Decreasing.py` → implementación de **FFD**
 
-Estos archivos suelen definir funciones (importables) para luego medir tiempos o comparar desempeño.
 
 ---
 

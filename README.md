@@ -70,7 +70,7 @@ python3 ejercicio_1.py
 ```
 
 **Salida:**
-- genera un archivo con las salidas de resultado.
+- genera un archivo con las salidas de resultado y ademas se mostraran en terminal.
 
 ---
 

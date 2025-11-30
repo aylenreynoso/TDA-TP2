@@ -104,9 +104,7 @@ python3 sed_de_datos_NFD.py
 **Archivo:** `ejercicio4_randomizado_grafico.py`
 
 Grafica cómo crece la certeza en función de la cantidad de repeticiones `k` usando:
-\[
-\text{certeza}(k) = (1 - (0.5)^k)\cdot 100
-\]
+certeza}(k) = 1 - (0.5)^k
 
 **Ejecutar:**
 ```bash
